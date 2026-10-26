@@ -1,0 +1,8 @@
+{
+  "data_classification": "synthetic-example",
+  "campaign_label": "SYNTHETIC-TRAINING-EXAMPLE",
+  "delivered": 100,
+  "reported": 12,
+  "reporting_rate_percent": 12,
+  "notes": "Fabricated aggregate values; report-format example only."
+}

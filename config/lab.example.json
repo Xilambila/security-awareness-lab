@@ -1,0 +1,10 @@
+{
+  "project": "security-awareness-lab",
+  "mode": "documentation-only",
+  "campaign_label": "SYNTHETIC-TRAINING-EXAMPLE",
+  "outbound_delivery_enabled": false,
+  "visitor_tracking_enabled": false,
+  "credential_collection_enabled": false,
+  "public_exposure_enabled": false,
+  "sample_data_only": true
+}
